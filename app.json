@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3c0b1673-d085-43e4-b0f0-d86b8616c51f"
+      }
+    },
+    "owner": "sparesos"
   }
 }
